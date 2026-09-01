@@ -55,6 +55,7 @@ Current module version: **YDP302B002-V6**. Mechanical outline follows [`docs/YDP
 | ESP32-S3 · AXS15231B QSPI + LVGL8 | [`examples/esp32s3-idf5_axs15231b-qspi_lvgl8/`](./examples/esp32s3-idf5_axs15231b-qspi_lvgl8/) |
 | ESP32-S3 · AXS15231B QSPI + LVGL9 | [`examples/esp32s3-idf5_axs15231b-qspi_lvgl9/`](./examples/esp32s3-idf5_axs15231b-qspi_lvgl9/) |
 | ESP32-S3 · LVGL8 + TE + software rotate 90° | [`examples/with-te-sw-rotate-90/esp32s3-idf5_axs15231b-qspi_lvgl8_lcd-with-te/`](./examples/with-te-sw-rotate-90/esp32s3-idf5_axs15231b-qspi_lvgl8_lcd-with-te/) |
+| ESP32-S3 · AXS15231B QSPI + hardware rotate 90° (560×170) | [`examples/esp32s3-3.02-tft-170x560-qspi-axs15231b-bringup/`](./examples/esp32s3-3.02-tft-170x560-qspi-axs15231b-bringup/) |
 
 ## Repository layout
 
@@ -85,6 +86,7 @@ Current module version: **YDP302B002-V6**. Mechanical outline follows [`docs/YDP
 - [ESP32-S3 AXS15231B QSPI + LVGL8](./examples/esp32s3-idf5_axs15231b-qspi_lvgl8/)
 - [ESP32-S3 AXS15231B QSPI + LVGL9](./examples/esp32s3-idf5_axs15231b-qspi_lvgl9/)
 - [ESP32-S3 LVGL8 + TE + software rotate 90°](./examples/with-te-sw-rotate-90/esp32s3-idf5_axs15231b-qspi_lvgl8_lcd-with-te/)
+- [ESP32-S3 AXS15231B QSPI + hardware rotate 90°](./examples/esp32s3-3.02-tft-170x560-qspi-axs15231b-bringup/)
 
 ## Buy
 
