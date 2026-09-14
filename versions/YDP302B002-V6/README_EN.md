@@ -79,6 +79,7 @@ tft-3.02-170x560-qspi-axs15231b/                                # repo root (nav
 | Driver IC datasheet (AXS15231B) | [`docs/AXS15231B_Datasheet_V0.5_20230306.pdf`](./docs/AXS15231B_Datasheet_V0.5_20230306.pdf) |
 | Init sequence (text) | [`docs/YP008_Linit_15231E_QSPI_ok_卓工_20251111.txt`](./docs/YP008_Linit_15231E_QSPI_ok_%E5%8D%93%E5%B7%A5_20251111.txt) |
 | 3.02″ screen test board | [`docs/3.02寸屏幕测试板.pdf`](./docs/3.02寸屏幕测试板.pdf) |
+| 3.02″ screen test board V1.1 | [`docs/3.02寸屏幕测试板V1.1.pdf`](./docs/3.02%E5%AF%B8%E5%B1%8F%E5%B9%95%E6%B5%8B%E8%AF%95%E6%9D%BFV1.1.pdf) |
 
 ### Samples
 
