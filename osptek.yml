@@ -6,6 +6,7 @@ panel: tft
 resolution: 170x560
 interface: [qspi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP302B002-V6
